@@ -1,6 +1,6 @@
 # Run IR evaluation
 
-First, create a new directory called `result_`.
+First, read Course_work.pdf. Then create a new directory called `result_`.
 
 ```
 mkdir result_
